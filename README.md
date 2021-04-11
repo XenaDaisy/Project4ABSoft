@@ -11,6 +11,7 @@ JDK version 1.8.0_231; Maven version 3.6.3
 Running the tests:
 
 Input data: 
+
 ComputerName: the name of a computer that is added to the database 
 
 today: the date when the test is run (in the yyyy-MM-dd format) 
